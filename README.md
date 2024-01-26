@@ -14,7 +14,7 @@ Human Revision and Oversight - Users review and revise each segment, ensuring th
 
 Branching Narrative Paths - Offers three branching options at crucial points: expected, less predictable, and unconventional paths.
 
-Integration of Classic Three Act Structure -Structures the screenplay in a traditional three-act format with AI-generated suggestions for key plot points and character development.
+Integration of Classic Three Act Structure - Structures the screenplay in a traditional three-act format with AI-generated suggestions for key plot points and character development.
 
 ## Conclusion:
 
