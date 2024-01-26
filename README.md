@@ -6,15 +6,15 @@ The Custom Everything Movie Script Creator, featuring AI agents Sam (author) and
 
 ## Key Features:
 
-Initial Logline Input:Users set their screenplay's narrative foundation with a logline.  Agents creatively fill in missing details.
+Initial Logline Input - Users set their screenplay's narrative foundation with a logline.  Agents creatively fill in missing details.
 
-Dual AI Agents for Script Development:Sam writes the story ideas and structures, while Donna refines for coherence and flow. Together, they craft from the Hook to The End.
+Dual AI Agents for Script Development - Sam writes the story ideas and structures, while Donna refines for coherence and flow. Together, they craft from the Hook to The End.
 
-Human Revision and Oversight:Users review and revise each segment, ensuring the script aligns with their vision.
+Human Revision and Oversight - Users review and revise each segment, ensuring the script aligns with their vision.
 
-Branching Narrative Paths:Offers three branching options at crucial points: expected, less predictable, and unconventional paths.
+Branching Narrative Paths - Offers three branching options at crucial points: expected, less predictable, and unconventional paths.
 
-Integration of Classic Three-Act Structure:Structures the screenplay in a traditional three-act format with AI-generated suggestions for key plot points and character development.
+Integration of Classic Three Act Structure -Structures the screenplay in a traditional three-act format with AI-generated suggestions for key plot points and character development.
 
 ## Conclusion:
 
