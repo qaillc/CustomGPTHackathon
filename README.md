@@ -1,4 +1,4 @@
-# Custom GPT Hackathon Decription 
+# Custom GPT Hackathon Description 
 
 ## Overview
 
